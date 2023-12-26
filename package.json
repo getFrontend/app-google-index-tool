@@ -11,7 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "googleapis": "^129.0.0"
+    "googleapis": "^129.0.0",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
