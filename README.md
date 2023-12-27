@@ -2,6 +2,8 @@
 
 This useful tool will help you quickly index your site's page listings without having to add each url manually through the [Google Search Console](https://search.google.com/search-console) interface.
 
+![](https://github.com/getFrontend/app-google-index-tool/blob/main/app-google-index-tool_main.png?raw=true)
+
 ## How to use it?
 
 1) First download and unzip this repository: <>Code ➡ Download ZIP.
@@ -28,6 +30,8 @@ To verify ownership of your site you'll need to add your service account email a
 6) Add a list of site pages to the **urls.txt** file (each new page on a new line).
 
 Example:
+
+![](https://github.com/getFrontend/app-google-index-tool/blob/main/app-google-index-tool_urls.png?raw=true)
 
 7) Open a terminal (e.g. **Powershell**) and run the script:
 
