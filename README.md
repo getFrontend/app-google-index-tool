@@ -1,10 +1,10 @@
-#About
+# About
 
 This useful tool will help you quickly index your site's page listings without having to add each url manually through the [Google Search Console](https://search.google.com/search-console "Google Search Console") interface.
 
 ## How to use it?
 
-First download and unzip this repository ( *<>Code ➡ Download ZIP* ).
+First download and unzip this repository: <>Code ➡ Download ZIP.
 
 Make sure you have [Node.JS](https://nodejs.org/ "Node.JS") installed.
 
