@@ -22,10 +22,10 @@ To verify ownership of your site you'll need to add your service account email a
 
 5) To complete the verification:
 
-1. Go to [Google Webmaster Central](https://www.google.com/webmasters/verification/home)
-2. Click your verified property.
-3. Scroll down and click 'Add an owner'.
-4. Add your service account email address as an owner to the property.
+* Go to [Google Webmaster Central](https://www.google.com/webmasters/verification/home)
+* Click your verified property.
+* Scroll down and click 'Add an owner'.
+* Add your service account email address as an owner to the property.
 
 6) Add a list of site pages to the **urls.txt** file (each new page on a new line).
 
